@@ -1,3 +1,3 @@
 # sitedin
 
-Exercicio de criaçãod epaginas dinamica com node + react + react-dom + next.js
+Exercicio de criação de páginas dinamicas com node + react + react-dom + next.js
